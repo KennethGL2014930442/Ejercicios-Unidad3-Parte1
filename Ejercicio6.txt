@@ -1,0 +1,11 @@
+Algoritmo aumentado
+	numero = aleatorio(0,200)
+	Escribir "El numero aleatorio entre 0 y 200 es: ",numero
+	
+	m = numero*30
+	d = m/100
+	aum = numero+d 
+	
+	Escribir "El numero aleatorio aumentado en un 30% es: ",aum
+	
+FinAlgoritmo
