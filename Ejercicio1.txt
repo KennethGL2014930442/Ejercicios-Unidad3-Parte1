@@ -1,0 +1,11 @@
+Algoritmo Suma
+	Escribir "Ingrese el primer numero:"
+	Leer numero1
+	Escribir "Ingrese el segundo numero:"
+	Leer numero2
+	
+	S <- numero1+numero2
+	
+	Escribir "El resultado es: ",S	
+	
+FinAlgoritmo
