@@ -1,0 +1,11 @@
+Algoritmo Cuad_Cubo
+	Escribir "Ingrese un numero: "
+	Leer num
+	
+	cuad = num^2
+	cubo = num^3
+	
+	Escribir "El cuadrado del numero es: ",cuad
+	Escribir "El cubo del numero es: ",cubo
+	
+FinAlgoritmo
