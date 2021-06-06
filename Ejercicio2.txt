@@ -1,0 +1,9 @@
+Algoritmo Capital
+	Escribir "Ingrese el pais: "
+	Leer pais
+	Escribir "Ingrese la capital: "
+	Leer capi
+	
+	Escribir capi " es la capital de ", pais
+	
+FinAlgoritmo
