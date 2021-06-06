@@ -1,0 +1,15 @@
+Algoritmo Conversion
+	Escribir "Ingrese un numero en centimetros: "
+	Leer numero
+	
+	yarda = numero*0.0109361
+	metro = numero*0.01
+	pies = numero*0.0328084
+	pulgadas = numero*0.393701
+	
+	Escribir "La conversion a yardas es de: ",yarda
+	Escribir "La conversion a metros es de: ",metro
+	Escribir "La conversion a pies es de: ",pies
+	Escribir "La conversion a pulgadas es de: ",pulgadas
+	
+FinAlgoritmo
