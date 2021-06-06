@@ -1,0 +1,11 @@
+Algoritmo Correcto
+	numal = Aleatorio(0,1000)
+	Escribir "El numero aleatorio es: ",numal
+	
+	Si numalMOD5=0 Y numal<=25 Entonces
+		Escribir "Correcto"
+	SiNo
+		Escribir "Incorrecto"
+	FinSi
+	
+FinAlgoritmo
