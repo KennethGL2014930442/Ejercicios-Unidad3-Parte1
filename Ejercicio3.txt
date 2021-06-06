@@ -1,0 +1,11 @@
+Algoritmo Doble_Triple
+	Escribir "Ingrese un numero: "
+	Leer num
+	
+	doble <- 2*num
+	triple = 3*num
+	
+	Escribir "El doble del numero es: ",doble 
+	Escribir "El triple del numero es: ",triple
+	
+FinAlgoritmo
