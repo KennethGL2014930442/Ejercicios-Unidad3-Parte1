@@ -1,0 +1,19 @@
+Algoritmo Triangulos
+	Escribir "Ingresa la medida de la base: "
+	Leer base
+	Escribir "Ingresa la medida del lado 1: "
+	Leer lado1
+	Escribir "Ingresa la medida del lado 2: "
+	Leer lado2
+	
+	Si base=lado1 Y base=lado2 Entonces
+		Escribir "Es un triangulo equilatero"
+	SiNo
+		Si lado1=lado2 Entonces
+			Escribir "Es un triangulo isosceles"
+		SiNo
+			Escribir "Es un triangulo escaleno"
+		FinSi
+	FinSi
+	
+FinAlgoritmo
