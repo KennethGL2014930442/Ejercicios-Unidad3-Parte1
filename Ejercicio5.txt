@@ -1,0 +1,9 @@
+Algoritmo Siguiente
+	Escribir "Ingrese un numero: "
+	Leer num
+	
+	sig = num+1
+	
+	Escribir "El numero que le sucede al numero ingresado es: ",sig
+	
+FinAlgoritmo
