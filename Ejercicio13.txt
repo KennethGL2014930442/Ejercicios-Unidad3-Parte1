@@ -1,0 +1,18 @@
+Algoritmo Volumen
+	Escribir "Ingrese el radio del cilindro: "
+	Leer radio
+	Escribir "Ingrese la altura del cilindro: "
+	Leer altura
+	
+	Si radio>0 Entonces
+		Si altura>0 Entonces
+			vol = pi*radio^2*altura
+			Escribir "El volumen del cilindro es: ",vol
+		SiNo
+			Escribir "No se puede calcular el volumen ya que altura < 0"
+		FinSi
+	SiNo
+		Escribir "No se puede calcular el volumen ya que radio < 0"
+	Fin Si
+	
+FinAlgoritmo
