@@ -1,0 +1,11 @@
+Algoritmo Disminuido
+	numero = Aleatorio(10,50)
+	Escribir "El numero aleatorio es: ",numero
+	
+	m = numero*15
+	d = m/100
+	dism = numero-d
+	
+	Escribir "El numero aleatorio disminuido en un 15% es: ",dism
+	
+FinAlgoritmo
