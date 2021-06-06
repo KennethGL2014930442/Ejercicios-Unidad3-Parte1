@@ -1,0 +1,15 @@
+Algoritmo NegPosNulo
+	Escribir "Ingrese un numero cualquiera: "
+	Leer numero
+	
+	Si numero=0 Entonces
+		Escribir "El numero es nulo"
+	SiNo
+		Si numero>0 Entonces
+			Escribir "El numero es positivo"
+		SiNo
+			Escribir "El numero es negativo"
+		FinSi		
+	FinSi
+	
+FinAlgoritmo
