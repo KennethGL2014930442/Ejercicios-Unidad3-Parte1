@@ -13,7 +13,7 @@ public class ejercicio7{
 		div = multi/100;
 		disminuido = numero-div;
 		
-		System.out.println("El numero aleatorio aumentado en un 30% es: "+disminuido);
+		System.out.println("El numero aleatorio disminuido en un 15% es: "+disminuido);
 		
 		
 	}
